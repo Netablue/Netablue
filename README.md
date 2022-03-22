@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Fabuzac/fabuzac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <h1>Hi there 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: 
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/novation-web-779486208/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.novation-web.com/">
+      <img src="https://img.shields.io/badge/Novation_Web-red?style=for-the-badge&logo=/e/&logoColor=white" alt="NovationWeb Badge"/>
+    </a>
+    <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
+
