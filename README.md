@@ -16,5 +16,22 @@
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  <div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" 
+             title="Laravel" 
+             alt="Laravel" 
+             width="100" 
+             height="100"/>
+    <div>
+<!--      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" 
+           title="React" 
+           alt="React" 
+           width="60" 
+           height="60"/> -->
+  </div>
+  </div>
+  
 </div>
-
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabuzac&layout=compact&theme=vision-friendly-dark)](https://github.com/Fabuzac?tab=repositories)
+ -->
