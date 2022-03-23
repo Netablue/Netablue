@@ -23,13 +23,8 @@
              width="100" 
              height="100"/>
     <div>
-<!--      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" 
-           title="React" 
-           alt="React" 
-           width="60" 
-           height="60"/> -->
   </div>
-  </div>
+ </div>
   
 </div>
 <!-- 
