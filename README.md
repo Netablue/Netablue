@@ -20,8 +20,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" 
              title="Laravel" 
              alt="Laravel" 
-             width="99" 
-             height="99"/>
+             width="98" 
+             height="98"/>
     <div>
   </div>
  </div>
