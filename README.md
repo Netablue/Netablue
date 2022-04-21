@@ -16,15 +16,25 @@
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  <br />
   <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" 
              title="Laravel" 
              alt="Laravel" 
-             width="98" 
-             height="98"/>
-    <div>
+             width="90" 
+             height="90"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" 
+             title="React" 
+             alt="React" 
+             width="90" 
+             height="90"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" 
+             title="React" 
+             alt="React" 
+             width="90" 
+             height="90"/>
+   
   </div>
- </div>
   
 </div>
 <!-- 
