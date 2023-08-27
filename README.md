@@ -9,15 +9,27 @@
     <a href="https://www.linkedin.com/in/novation-web-779486208/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <!-- 
     <a href="https://www.novation-web.com/">
       <img src="https://img.shields.io/badge/Novation_Web-red?style=for-the-badge&logo=/e/&logoColor=white" alt="NovationWeb Badge"/>
     </a>
+    -->
     <a href="https://www.instagram.com/novation_web/">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   <br />
   <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" 
+             title="php" 
+             alt="php" 
+             width="90" 
+             height="90"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
+             title="javascript" 
+             alt="javascript" 
+             width="90" 
+             height="90"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" 
              title="Laravel" 
              alt="Laravel" 
@@ -28,9 +40,9 @@
              alt="React" 
              width="90" 
              height="90"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" 
-             title="React" 
-             alt="React" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" 
+             title="wordpress" 
+             alt="wordpress" 
              width="90" 
              height="90"/>
    
