@@ -53,14 +53,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Fabuzac">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabuzac&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabuzac&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabuzac&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fabuzac&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabuzac&theme=2077" height="180em" />
+<a href="https://github.com/Netablue">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Netablue&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Netablue&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Netablue&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Netablue&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Netablue&theme=2077" height="180em" />
 </div>
 
 <!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabuzac&layout=compact&theme=vision-friendly-dark)](https://github.com/Fabuzac?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netablue&layout=compact&theme=vision-friendly-dark)](https://github.com/Netablue?tab=repositories)
  -->
