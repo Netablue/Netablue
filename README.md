@@ -20,7 +20,7 @@
   </div>
   <br />
   <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" 
              title="php" 
              alt="php" 
              width="90" 
