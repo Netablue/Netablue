@@ -35,12 +35,12 @@
              alt="Laravel" 
              width="90" 
              height="90"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
              title="React" 
              alt="React" 
              width="90" 
              height="90"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" 
              title="wordpress" 
              alt="wordpress" 
              width="90" 
