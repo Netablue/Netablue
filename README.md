@@ -30,7 +30,7 @@
              alt="javascript" 
              width="90" 
              height="90"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" 
              title="Laravel" 
              alt="Laravel" 
              width="90" 
