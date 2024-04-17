@@ -1,66 +1,53 @@
 
 
 <div id="header" align="center">
-  <h1>Hi there 👋</h1>
+	<h1>Hi there 👋</h1>
 
-
-
-  <div id="badges">
-<!-- 
-    📫 How to reach me: 
-    <a href="https://www.linkedin.com/in/#/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a> -->
-    <!-- 
-    <a href="https://www.novation-web.com/">
-      <img src="https://img.shields.io/badge/Novation_Web-red?style=for-the-badge&logo=/e/&logoColor=white" alt="NovationWeb Badge"/>
-    </a>
-    -->
-<!--     <a href="https://www.instagram.com/novation_web/">
-      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-    </a> -->
-  </div>
+  <p>
+  I'm Fabien, a passionate web developer currently working on the Netablue project.
   <br />
-  <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" 
-             title="php" 
-             alt="php" 
-             width="90" 
-             height="90"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
-             title="javascript" 
-             alt="javascript" 
-             width="90" 
-             height="90"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" 
-             title="Laravel" 
-             alt="Laravel" 
-             width="90" 
-             height="90"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
-             title="React" 
-             alt="React" 
-             width="90" 
-             height="90"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" 
-             title="wordpress" 
-             alt="wordpress" 
-             width="90" 
-             height="90"/>
-   
-  </div>
+  Beyond my role there, I'm constantly exploring a diverse range of tools and technologies to enhance my skills and broaden my horizons.
+  </p>
+
+  <h3>Languages:</h3>
+
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   
+  <h3>Frameworks & Libraries:</h3>
+  
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+  
+  <h3>Content management system:</h3>
+  
+  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+  
+  <h3>Database:</h3>
+  
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  <h3>Wishlist:</h3>
+  
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+  
+  <br />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Netablue">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Netablue&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Netablue&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Netablue&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Netablue&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Netablue&theme=2077" height="180em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netablue&hide_progress=true&theme=radical&hide_border=true" height="140em" width="500em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Netablue&theme=2077" height="200em" width="500em" />
 </div>
 
 <!-- 
