@@ -1,6 +1,6 @@
 
 
-<div id="header" align="center">
+<div id="header" align="left">
 	<h1>Hi there 👋</h1>
 
   <p>
